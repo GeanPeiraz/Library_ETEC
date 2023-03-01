@@ -1,0 +1,26 @@
+{
+  "name": "livraria---frontend",
+  "version": "1.0.0",
+  "description": "PROJETO FRONTEND DA LIVRARIA ONLINE. PW3 ETEC DE BARUERI",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "keywords": [
+    "PW3",
+    "ETEC",
+    "FRONTEND",
+    "NODEJS",
+    "BARUERI"
+  ],
+  "author": "SAMUEL CURSINO MOYA DE SOUZA",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.3.2",
+    "ejs": "^3.1.8",
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
